@@ -1,3 +1,4 @@
+//Datatype Exercise 1
 public class Rectangle {
     // Private instance variables
     private int length;
