@@ -1,3 +1,4 @@
+//DataTypes Exercise 2
 public class Rectangle_peri {
     // Private instance variables
     private int length;
